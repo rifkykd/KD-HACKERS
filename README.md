@@ -1,6 +1,6 @@
 # TERMUX Parrot Shell 
 #### Termux Advance Banner Like parrot shell 😎
-<img align="center" src="KD.png"/>
+<img align="center" src="KD.jpeg"/>
 
 ## [+] Installation & Usage
 
