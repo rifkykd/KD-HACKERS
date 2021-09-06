@@ -1,14 +1,12 @@
 # TERMUX Parrot Shell 
-#### Beautify your Termux App 😎
+#### Beautify your Termux App Like parrot shell 😎
 
 ## [+] Installation & Usage
 ```
-apt update
-
+apt update && apt upgrade
 ```
 ```
 apt install git -y
-
 ```
 ```
 git clone https://github.com/rifkykd/Wonderful-Termux.git
