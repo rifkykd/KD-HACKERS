@@ -1,7 +1,9 @@
 # TERMUX Parrot Shell 
 #### Termux Advance Banner Like parrot shell 😎
 <img align="center" src="KD.png"/>
+
 ## [+] Installation & Usage
+
 ```
 apt update && apt upgrade
 ```
