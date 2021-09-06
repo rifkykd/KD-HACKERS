@@ -9,10 +9,10 @@ apt update && apt upgrade
 apt install git -y
 ```
 ```
-git clone https://github.com/rifkykd/Wonderful-Termux.git
+git clone https://github.com/rifkykd/KD-HACKERS.git
 ```
 ```
-cd Womderful-Termux
+cd KD-HACKERS
 ```
 ```
 chmod +x *
