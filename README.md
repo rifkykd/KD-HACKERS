@@ -1,5 +1,5 @@
 # TERMUX Parrot Shell 
-#### Beautify your Termux App Like parrot shell 😎
+#### Termux Advance Banner Like parrot shell 😎
 
 ## [+] Installation & Usage
 ```
