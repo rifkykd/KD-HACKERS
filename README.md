@@ -22,9 +22,7 @@ chmod +x *
 ```
 sh install.sh
 ```
-```
-exit
-```
+#### Now Type 'exit' & Restart Termux
 
   
 ### CONNECT WITH ME :
