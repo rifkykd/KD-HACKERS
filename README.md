@@ -65,7 +65,6 @@ sh install.sh
 # My Projects
 <p align="center">
 <a href="https://github.com/rifkykd/KD-HACKERS"><img title="KD-HACKERS" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=KD-HACKERS&theme=highcontrast"></a>
-<a href="https://github.com/rifkykd/KD-Phisher"><img title="KD-Phisher" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=KD-Phisher&theme=highcontrast"></a>
 <a href="https://github.com/rifkykd/SEE-YOU"><img title="SEE-YOU" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=SEE-YOU&theme=highcontrast"></a>
 <a href="https://github.com/rifkykd/Fake-Mailer"><img title="Fake-Mailer" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=Fake-Mailer&theme=highcontrast"></a>                 
 <a href="https://github.com/rifkykd/KD-HACKERS"><img title="KD-HACKERS" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=KD-HACKERS&theme=highcontrast"></a>
